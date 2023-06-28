@@ -1,8 +1,45 @@
 How to guide for finance_calculators.py
 
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+#### Table of Contents  
+1. [Introduction](#introduction)  
+2. [Installation Guide](#installation)  
+3. [How to Use](#howto)
+4. [Credits](#credits)
+
+<a name="introduction"></a>
+#### 1. Introduction
+
+##### For this project, we were tasked with creating a program that allows the user to access two different financial calculators: an investment calculator and a home loan repayment calculator. The user needed to be able to choose which calculation they wanted to do.
+
+<a name="installation"></a>
+#### 2. Installation Guide
+
+##### To download the Python code, click on the link to the 'finance_calculators.py' in the repository. 
+
+![Alt text](image-2.png)
+
+##### In the top corner, you will then see the 'download' button. Click that button and save it to your documents.
+
+![Alt text](image-3.png)
+
+##### In Python, you will then need to find and open the file.
+
+![Alt text](image-4.png)
+
+<a name="howto"></a>
+#### 3. How to Use
+
+##### Once you've done the steps above, you will then see this screen:
+
+![Alt text](image-5.png)
+
+##### Run the program as normal, and you will get this screen:
+
+![Alt text](image-6.png)
+
+##### Enter either 'investment' or 'bond' into the first prompt. Depending on what you enter, you will then be given further prompts that require input. Once you have filled in all the prompts, you will get the final result:
+
+![Alt text](image-7.png)
+
+<a name="credits"></a>
+#### 4. Myself and the tutors at Hyperion Dev who helped me
